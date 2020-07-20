@@ -5,11 +5,11 @@
 }
 
 #container {
-    background-color: blue;
+    /* background-color: blue; */
     display: flex;
     margin: 0 auto;
     width: max-content;
-    height: 60%;
+    height: 70vmin;
 }
 
 #b{
@@ -59,7 +59,7 @@ h1{
 	border: 0.05vw solid black;
 	width:0.6vw;
 	margin:0.1vw;
-	background-color: #fd0081;
+	background-color: skyblue;
 }
 .sorts{
 	display: flex;
